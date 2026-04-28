@@ -1,5 +1,5 @@
 {
-  "name": "@syd/mcp-server",
+  "name": "@celerya/mcp-server",
   "version": "0.1.0",
   "description": "SYD MCP server — connect SYD to Claude, Cursor, and any MCP-compatible AI client.",
   "type": "module",

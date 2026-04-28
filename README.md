@@ -18,7 +18,7 @@ Add to your AI client's MCP config and restart:
   "mcpServers": {
     "syd-demo": {
       "command": "npx",
-      "args": ["-y", "@syd/mcp-server@latest"],
+      "args": ["-y", "@celerya/mcp-server@latest"],
       "env": {
         "SYD_API_KEY": "sk_test_demo",
         "SYD_API_URL": "https://demo-api.syd.io/v1/mcp"
